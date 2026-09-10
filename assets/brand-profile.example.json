@@ -1,0 +1,13 @@
+{
+  "brand_id": "example-brand",
+  "brand": "example-brand",
+  "official_domains": ["example.com"],
+  "official_ips": ["192.0.2.10"],
+  "official_visual_hashes": [],
+  "aliases": ["examplebrand"],
+  "brand_terms": ["Example Brand"],
+  "tlds": ["com", "net", "org", "io", "co"],
+  "risk_keywords": {"high": ["casino", "bet", "betting", "gambling", "bonus"], "phishing": ["login", "support", "verify", "wallet", "payment", "withdraw"]},
+  "allowlist": ["example.com", "status.example.com"],
+  "max_candidates": 500
+}
