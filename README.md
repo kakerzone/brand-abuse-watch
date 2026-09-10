@@ -1,3 +1,5 @@
+> 面向任意 AI Agent、自动化平台或人工安全团队复用的品牌仿冒监控 Skill 与 Python 工具包。
+
 # Brand Abuse Watch
 
 [English](#english) · [中文](#中文)
