@@ -1,0 +1,38 @@
+# Python and local environment
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Local scan workspaces and captures
+work/
+monitor-run/
+captures/
+reports/
+
+# Local databases and state
+*.db
+*.sqlite
+*.sqlite3
+*monitor-state.json
+*lark-state.json
+*cases.json
+
+# Generated findings, evidence, and delivery previews
+findings*.jsonl
+enriched*.jsonl
+rescored*.jsonl
+changes*.jsonl
+*evidence*.jsonl
+*dnstwist*.jsonl
+*capture-index*.jsonl
+*preview*.jsonl
+open-cases.jsonl
+ct-*.jsonl
+dns-*.jsonl
+rdap-*.jsonl
